@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UD1_PracticaBanderas_Carolina</string>
+    <string name="recargar">Recargar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="guardar">Guardar</string>
+    <string name="nombre_autonomia">Nombre Automonia</string>
+</resources>
