@@ -1,9 +1,5 @@
 package com.example.ud1_practicabanderas_carolina
 
-
-import androidx.activity.enableEdgeToEdge
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -25,6 +21,10 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        // Configurar la Toolbar
+        setSupportActionBar(binding.toolbar)
+        supportActionBar?.setTitle(R.string.app_name)
+
         setupRecyclerView()
         loadAutonomias()
     }
@@ -39,8 +39,8 @@ class MainActivity : AppCompatActivity() {
                 showContextMenu(autonomia)
             }
         )
-        binding.recyclerView.layoutManager = LinearLayoutManager(this)
-        binding.recyclerView.adapter = adapter
+        binding.recyclerViewAutonomias.layoutManager = LinearLayoutManager(this)
+        binding.recyclerViewAutonomias.adapter = adapter
     }
 
     private fun loadAutonomias() {

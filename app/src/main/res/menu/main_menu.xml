@@ -4,9 +4,11 @@
     <item
         android:id="@+id/action_recargar"
         android:title="@string/recargar"
-        app:showAsAction="never" />
+        app:showAsAction="never"
+        android:orderInCategory="100" />
     <item
         android:id="@+id/action_limpiar"
         android:title="@string/limpiar"
-        app:showAsAction="never" />
+        app:showAsAction="never"
+        android:orderInCategory="101" />
 </menu>
