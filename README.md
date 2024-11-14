@@ -2,7 +2,7 @@
 
 ## Capturas de pantalla
 
-[![Grabación de pantalla](https://github.com/Estivbi/UD1_PracticaBanderas_Carolina/raw/master/Grabación%20de%20pantalla%202024-11-14%20224938.mp4)](https://github.com/Estivbi/UD1_PracticaBanderas_Carolina/blob/master/Grabación%20de%20pantalla%202024-11-14%20224938.mp4)
+[![Grabación de pantalla](Grabación de pantalla 2024-11-14 224938.mp4)
 
 ## Descripción
 
