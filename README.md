@@ -1,12 +1,5 @@
 # UD1_PracticaBanderas_Carolina
 
-## Capturas de pantalla
-
-[![Captura de pantalla]("C:\Users\carol\Downloads\Screenshot_20241114_231054.png")
-[![Captura de pantalla]("C:\Users\carol\Downloads\Screenshot_20241114_231037.png")
-[![Captura de pantalla]("C:\Users\carol\Downloads\Screenshot_20241114_231015.png")
-[![Captura de pantalla]("C:\Users\carol\Downloads\Screenshot_20241114_230908.png")
-
 ## Descripción
 
 Esta aplicación muestra una lista de las comunidades autónomas de España con sus respectivas banderas. Permite al usuario interactuar con la lista, mostrando un mensaje al hacer clic en un elemento y un menú contextual al mantener presionado.
