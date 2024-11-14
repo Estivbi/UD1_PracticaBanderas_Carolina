@@ -2,7 +2,10 @@
 
 ## Capturas de pantalla
 
-[![Grabación de pantalla](https://user-images.githubusercontent.com/estivbi/UD1_PracticaBanderas_Carolina/assets/Grabacióndepantalla2024-11-14224938.mp4)
+[![Captura de pantalla]("C:\Users\carol\Downloads\Screenshot_20241114_231054.png")
+[![Captura de pantalla]("C:\Users\carol\Downloads\Screenshot_20241114_231037.png")
+[![Captura de pantalla]("C:\Users\carol\Downloads\Screenshot_20241114_231015.png")
+[![Captura de pantalla]("C:\Users\carol\Downloads\Screenshot_20241114_230908.png")
 
 ## Descripción
 
