@@ -2,6 +2,8 @@
 
 ## Capturas de pantalla
 
+[![Grabación de pantalla](https://github.com/Estivbi/UD1_PracticaBanderas_Carolina/raw/master/Grabación%20de%20pantalla%202024-11-14%20224938.mp4)](https://github.com/Estivbi/UD1_PracticaBanderas_Carolina/blob/master/Grabación%20de%20pantalla%202024-11-14%20224938.mp4)
+
 ## Descripción
 
 Esta aplicación muestra una lista de las comunidades autónomas de España con sus respectivas banderas. Permite al usuario interactuar con la lista, mostrando un mensaje al hacer clic en un elemento y un menú contextual al mantener presionado.
